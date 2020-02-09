@@ -11,4 +11,4 @@ it myself. So, I made this major rewrite that I find makes more sense.
 The game font used is Press Start 2P, by CodeMan38. [See details on
 Google Fonts](https://fonts.google.com/specimen/Press+Start+2P).
 
-![Screenshot](https://github.com/revjawells/tetris-pygame/screenshot.png)
+![Screenshot](https://github.com/revjawells/tetris-pygame/blob/master/screenshot.png)
